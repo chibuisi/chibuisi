@@ -5,10 +5,9 @@ function Welcome() {
     return(
         <div>
             <Jumbotron>
-                <h1>Important Info...</h1>
+                <h1>Coming Soon...</h1>
                 <p>
-                    We are recruiting for digital content designer with passion for excellent graphic work.<br/>
-                    To apply, send an email with your resume as attachment to chibuisi.info@gmail.com
+                    Send an email to chibuisi.info@gmail.com for enquiries...
                 </p>
             </Jumbotron>
         </div>
